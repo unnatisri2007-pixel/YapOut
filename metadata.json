@@ -1,0 +1,7 @@
+{
+  "name": "YapOut - Social Hangouts & Community Activities",
+  "description": "Discover like-minded friends, join real-world hangout groups, plan custom outings, and generate curated itineraries with Gemma 4 AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
